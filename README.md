@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pramila J — Personal Portfolio
 
 > A futuristic, multi-page portfolio built as a **Personal Digital Universe / Developer OS** — not a standard template.
@@ -18,6 +19,12 @@
 | Forms | React Hook Form |
 | Themes | next-themes |
 | Deployment | Vercel |
+
+<<<<<<< HEAD
+Your local README content
+=======
+GitHub README content
+>>>>>>> origin/main
 
 ---
 
@@ -166,3 +173,6 @@ The contact form currently logs to console. To enable real email delivery:
 ---
 
 *Built with Next.js · Deployed on Vercel · © 2026 Pramila J*
+=======
+# -portfolio-pramilaj-
+>>>>>>> 93059450a0b7f945a8ff1e7a7f5c73fc6e19d5bf
